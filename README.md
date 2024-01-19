@@ -29,7 +29,6 @@ This project includes analysis of data on the Spotify songs I listened to most i
 
 You can follow the steps below to run the project on your own computer:
 
-1. Clone the repo: `git clone https://github.com/username/proje.git`
+1. Clone the repo: `https://github.com/kpiskindemir/CS210_TermProject.git`
 2. Create a virtual environment using Anaconda or virtualenv.
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Perform analysis and model creation via Jupyter Notebook or Python script.
+3. Perform analysis and model creation via Jupyter Notebook or Python script.
