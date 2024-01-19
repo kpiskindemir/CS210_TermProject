@@ -32,3 +32,5 @@ You can follow the steps below to run the project on your own computer:
 1. Clone the repo: `https://github.com/kpiskindemir/CS210_TermProject.git`
 2. Create a virtual environment using Anaconda or virtualenv.
 3. Perform analysis and model creation via Jupyter Notebook or Python script.
+
+### Ahmet Kaan Pişkindemir - 28963   
