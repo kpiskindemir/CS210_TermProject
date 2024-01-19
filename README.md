@@ -32,5 +32,6 @@ You can follow the steps below to run the project on your own computer:
 1. Clone the repo: `https://github.com/kpiskindemir/CS210_TermProject.git`
 2. Create a virtual environment using Anaconda or virtualenv.
 3. Perform analysis and model creation via Jupyter Notebook or Python script.
+4. For the Python codes used in this project and more detailed information, you can [click here](https://holly-rail-f55.notion.site/Detailed-Analysis-of-My-Most-Listened-to-Spotify-Songs-in-2023-247636173dc848ffa606b1ce684f7269).
 
 ### Ahmet Kaan Pişkindemir - 28963   
